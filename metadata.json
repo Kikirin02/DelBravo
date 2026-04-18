@@ -1,0 +1,13 @@
+{
+  "name": "Bravo Customs AI",
+  "description": "Sistema avanzado para agencias aduanales: gestión de pedimentos, tracking de arribos en terminales y asistente IA para glosa y clasificación arancelaria.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Customs Declaration Tracking (Pedimentos)",
+    "AI Glosa & Classification Assistant",
+    "Digital Catalog with Tariff Codes",
+    "Real-time Terminal Arriving Monitor"
+  ]
+}
